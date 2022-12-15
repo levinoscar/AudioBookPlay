@@ -3,7 +3,6 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
-
 android {
     namespace 'edu.temple.flossplayer'
     compileSdk 32
